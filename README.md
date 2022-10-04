@@ -1,2 +1,6 @@
 # KeaTest
-tester lige github ja tak
+## tester lige github
+
+Her er lige lidt tekst
+- wow
+- ja
